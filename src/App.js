@@ -26,9 +26,9 @@ function App() {
     <Router>
     
         <Navbar/>
-        {/* <Header></Header> */}
+        
         <Routes>
-        {/* <Route exact path="/" element={<Login/>}/> */}
+        { <Route exact path="/" element={<Login/>}/> }
           <Route exact path="/" element={<Topics/>}/>
           <Route path="/ques" element={<Ques no={no} setno={setno} />}></Route>
           <Route path="/SW" element={<SW no={no} setno={setno}/>}></Route>
