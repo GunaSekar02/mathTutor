@@ -43,5 +43,6 @@
     "axios": "^1.2.2",
     "gh-pages": "^5.0.0",
     "react-router-dom": "^6.5.0"
+    "tailwindcss": "^3.3.2"
   }
 }
