@@ -1,6 +1,6 @@
 import Navbar from './components/js/Navbar';
 import {React,useState} from 'react';
-// import Header from './components/js/Header'
+
 import {
 	BrowserRouter as Router,
 	Routes,
